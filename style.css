@@ -11,3 +11,23 @@ html {
 body {
     width: 100%;
 }
+
+button {
+    padding: 0.5rem 1rem;
+    background-color: lightgray;
+    color: white;
+    border: none;
+    margin: 1rem;
+}
+
+.pink {
+    background-color: #e5b7dd;
+}
+
+.blue {
+    background-color: #b3c2e3;
+}
+
+.violet {
+    background-color: #d0a7e1;
+}
